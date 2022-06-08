@@ -1,8 +1,7 @@
 # Cantera2.3Taller1
  Modelamiento De Objetos
  
- 
- Modelamiento de Objetos
+
 
 Autor Daniel Romero Cortes. en este repositorio se entrega desarrollado el ejercicio solicitado.
 
