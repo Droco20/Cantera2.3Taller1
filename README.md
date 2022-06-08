@@ -1,5 +1,7 @@
 # Cantera2.3Taller1
- Modelamiento De Objetos
+ 
+ Taller práctico
+Manejo de Clases y Objetos en Java
  
 
 
